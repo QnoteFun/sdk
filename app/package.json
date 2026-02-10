@@ -1,0 +1,8 @@
+{
+  "name": "qnote-app",
+  "version": "0.1.0",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "@solana/web3.js": "^1.95.0"
+  }
+}
